@@ -1,8 +1,5 @@
 # Scrape time varying environmental data from a web site to generate time series of env. variables.
 
-## Group Members
-- Ashik Mahmud 27672  [@ashik-devops](https://github.com/ashik-devops)
-
 ## Introduction
 
 The goal of this assignment is to collect, georeference, process, and store time-varying environmental data from a website in order to generate a time series of environmental variables. The primary goal is to build a comprehensive database that contains gauge master data as well as periodic water level and discharge data. This information is crucial for understanding, monitoring, and managing water resources and can be used for various purposes, such as flood prediction, water supply management, and environmental impact assessments.
