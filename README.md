@@ -2,7 +2,6 @@
 
 ## Group Members
 - Ashik Mahmud 27672  [@ashik-devops](https://github.com/ashik-devops)
-- Ruhi Tamanna Alam 28370 [@Ruhitamanna](https://github.com/ruhiTamanna)
 
 ## Introduction
 
